@@ -1,5 +1,5 @@
-![cover_image](https://github.com/krmdel/medical_assistant_rag/blob/main/Images/cover_image.jpeg)
-Source: DALL-E 3
+
+
 
 # **Medical Assistant Using Retrieval-Augmented Generation (RAG)**
 **Table of Contents**
